@@ -15,7 +15,7 @@ npm install
 npm run build    # builds the React app into client/dist
 npm start        # http://localhost:3000 (API + built frontend)
 ```
-Frontend dev with hot reload: run `npm start` in one terminal, then `cd client && npm install && npm run dev` (http://localhost:5173, proxies /api).
+Frontend dev with hot reload: run `npm start` in one terminal, then `cd client && npm install && npm run dev` (ex : http://localhost:5173, proxies /api).
 Env vars: `PORT`, `JWT_SECRET` (set in production), `DB_PATH`.
 
 ## Deploy to Render
