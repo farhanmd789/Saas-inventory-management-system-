@@ -1,0 +1,19 @@
+{
+  "name": "stockflow-mvp",
+  "version": "0.1.0",
+  "description": "StockFlow - minimal multi-tenant SaaS inventory app",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js",
+    "build": "npm ci --prefix client && npm --prefix client run build"
+  },
+  "engines": {
+    "node": ">=22 <23"
+  },
+  "dependencies": {
+    "bcryptjs": "^2.4.3",
+    "better-sqlite3": "^11.3.0",
+    "express": "^4.19.2",
+    "jsonwebtoken": "^9.0.2"
+  }
+}
