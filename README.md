@@ -32,3 +32,8 @@ requires Node.js 22.
 `POST /api/signup`, `POST /api/login`, `GET /api/dashboard`, `GET|POST /api/products`,
 `GET|PUT|DELETE /api/products/:id`, `POST /api/products/:id/adjust`, `GET|PUT /api/settings`
 #
+<img width="1920" height="869" alt="image" src="https://github.com/user-attachments/assets/a1bd1ded-fe47-4dba-b2f9-c521c4922076" />
+<img width="1920" height="940" alt="image" src="https://github.com/user-attachments/assets/6e9875b5-379a-4cb1-8793-3535b06c3c49" />
+<img width="1920" height="882" alt="image" src="https://github.com/user-attachments/assets/e6a2657f-ee70-43f6-b2a0-041b6283aef4" />
+<img width="1920" height="878" alt="image" src="https://github.com/user-attachments/assets/8bcf76b4-c851-4c8d-ac6f-b76caa9cd4b6" />
+<img width="1920" height="879" alt="image" src="https://github.com/user-attachments/assets/f2202134-76f5-464a-9bc5-2fbdf172061d" />
